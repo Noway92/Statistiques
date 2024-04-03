@@ -1,2 +1,2 @@
 # Statistiques
-Projet de statiitiques sur la NBA
+Projet de statistiques sur la NBA
